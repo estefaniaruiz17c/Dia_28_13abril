@@ -1,0 +1,10 @@
+azul
+13
+verde
+6
+rosado
+16
+amarillo
+3
+morado
+10

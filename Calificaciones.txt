@@ -1,0 +1,8 @@
+Grupo A
+4.0
+Grupo B
+3.34
+Grupo C
+2.5
+Grupo D
+4.8
